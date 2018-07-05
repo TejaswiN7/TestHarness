@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<testRequest>
+  <author>Jim Fawcett</author>
+  <test name="First Test">
+    <testDriver>../../dll/TestDrive.dll</testDriver>
+    <library>../../dll/CodeToTest.dll</library>
+  </test>
+</testRequest>

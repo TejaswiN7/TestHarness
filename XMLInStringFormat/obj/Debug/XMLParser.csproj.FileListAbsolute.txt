@@ -1,0 +1,5 @@
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\TestHarness\XMLInStringFormat\bin\Debug\XMLInStringFormat.dll
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\TestHarness\XMLInStringFormat\bin\Debug\XMLInStringFormat.pdb
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\TestHarness\XMLInStringFormat\obj\Debug\XMLInStringFormat.dll
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\TestHarness\XMLInStringFormat\obj\Debug\XMLInStringFormat.pdb
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\TestHarness\XMLInStringFormat\obj\Debug\XMLParser.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\AppDomainDemo1\iTest\bin\Debug\iTest.dll
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\AppDomainDemo1\iTest\bin\Debug\iTest.pdb
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\AppDomainDemo1\iTest\obj\Debug\iTest.csprojResolveAssemblyReference.cache
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\AppDomainDemo1\iTest\obj\Debug\iTest.dll
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\AppDomainDemo1\iTest\obj\Debug\iTest.pdb
+C:\Users\tejas\Desktop\AppDomainDemo1\AppDomainDemo1\iTest\bin\Debug\iTest.dll
+C:\Users\tejas\Desktop\AppDomainDemo1\AppDomainDemo1\iTest\bin\Debug\iTest.pdb
+C:\Users\tejas\Desktop\AppDomainDemo1\AppDomainDemo1\iTest\obj\Debug\iTest.csprojResolveAssemblyReference.cache
+C:\Users\tejas\Desktop\AppDomainDemo1\AppDomainDemo1\iTest\obj\Debug\iTest.dll
+C:\Users\tejas\Desktop\AppDomainDemo1\AppDomainDemo1\iTest\obj\Debug\iTest.pdb
+C:\Users\tejas\Desktop\sma\project 1\TestHarness (2)\AppDomainDemo1\AppDomainDemo1\iTest\bin\Debug\iTest.dll
+C:\Users\tejas\Desktop\sma\project 1\TestHarness (2)\AppDomainDemo1\AppDomainDemo1\iTest\bin\Debug\iTest.pdb
+C:\Users\tejas\Desktop\sma\project 1\TestHarness (2)\AppDomainDemo1\AppDomainDemo1\iTest\obj\Debug\iTest.csprojResolveAssemblyReference.cache
+C:\Users\tejas\Desktop\sma\project 1\TestHarness (2)\AppDomainDemo1\AppDomainDemo1\iTest\obj\Debug\iTest.dll
+C:\Users\tejas\Desktop\sma\project 1\TestHarness (2)\AppDomainDemo1\AppDomainDemo1\iTest\obj\Debug\iTest.pdb
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\TestHarness\iTest\bin\Debug\iTest.dll
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\TestHarness\iTest\bin\Debug\iTest.pdb
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\TestHarness\iTest\obj\Debug\iTest.csprojResolveAssemblyReference.cache
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\TestHarness\iTest\obj\Debug\iTest.dll
+C:\Users\tejas\Documents\Visual Studio 2015\Projects\TestHarness\iTest\obj\Debug\iTest.pdb
